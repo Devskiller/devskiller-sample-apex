@@ -76,7 +76,7 @@ Here is an example project descriptor:
             "**verify_pack**"
         ],
     },
-    "candidateTestsIncludedInScoring": true
+    "candidateTestsIncludedInScoring": false
 }
 ```
 
